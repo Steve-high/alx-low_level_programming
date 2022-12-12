@@ -18,3 +18,4 @@ int main(void)
 		putchar(upr);
 	putchar('\n');
 	return (0);
+}
